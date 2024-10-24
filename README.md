@@ -1,0 +1,1 @@
+# nx-vite-path-bug
